@@ -602,6 +602,11 @@ require('lazy').setup({
             },
           },
         },
+        omnisharp = {
+          -- cmd = {...},
+          -- filetypes = { ...},
+          -- capabilities = {},
+        },
       }
 
       -- Ensure the servers and tools above are installed
